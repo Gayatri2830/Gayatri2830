@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri2830&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri2830" /> </p>
+
 - 🌱 I’m currently learning **full stack java developer**
 
 - 📫 How to reach me **gayatrichavan9596@gmail.com**
